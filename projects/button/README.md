@@ -8,13 +8,7 @@
 Open Template Hub - Button v4
 </h1>
 
-[![Version](https://img.shields.io/npm/v/@open-template-hub/button?color=CB3837&style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@open-template-hub/button)
-[![Downloads](https://img.shields.io/npm/dt/@open-template-hub/button?color=CB3837&logo=npm&style=for-the-badge)](https://www.npmjs.com/package/@open-template-hub/button)
-[![License](https://img.shields.io/github/license/open-template-hub/button?color=43b043&style=for-the-badge)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/open-template-hub/button?color=43b043&style=for-the-badge)](https://github.com/open-template-hub/button/issues)
-[![PRCLosed](https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/button?color=43b043&style=for-the-badge)](https://github.com/open-template-hub/button/pulls?q=is%3Apr+is%3Aclosed)
-[![LastCommit](https://img.shields.io/github/last-commit/open-template-hub/button?color=43b043&style=for-the-badge)](https://github.com/open-template-hub/button/commits/master)
-[![Release](https://img.shields.io/github/release/open-template-hub/button?include_prereleases&color=43b043&style=for-the-badge)](https://github.com/open-template-hub/button/releases)
+[![GitHubRepo](https://img.shields.io/badge/GitHub-Repository-24292e.svg?style=for-the-badge&logo=github)](https://github.com/open-template-hub/button)
 [![SonarCloud](https://img.shields.io/sonar/quality_gate/open-template-hub_button?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud)](https://sonarcloud.io/dashboard?id=open-template-hub_button)
 
 This library contains button ui component for UI Templates on [Open Template Hub](https://github.com/open-template-hub)
@@ -64,4 +58,3 @@ Refer to **[CODE_OF_CONDUCT.md](https://github.com/open-template-hub/.github/blo
 ## LICENSE
 
 The source code for this project is released under the [MIT License](LICENSE).
-
