@@ -1,7 +1,7 @@
 import { Component, Input } from '@angular/core';
 
 @Component( {
-  selector: 'app-brand-button',
+  selector: 'oth-brand-button',
   templateUrl: './brand-button.component.html',
   styleUrls: [ './brand-button.component.scss' ]
 } )
