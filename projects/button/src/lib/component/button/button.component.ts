@@ -15,7 +15,7 @@ export const ButtonClasses = {
 };
 
 @Component( {
-  selector: 'app-button',
+  selector: 'oth-button',
   templateUrl: './button.component.html',
   styleUrls: [ './button.component.scss' ]
 } )
